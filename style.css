@@ -1,0 +1,178 @@
+body{
+    background-color: rgb(71, 231, 124);
+}
+header{
+    background-image: linear-gradient(to bottom, rgb(39, 194, 98), rgb(36, 35, 35));
+    padding: 5px;
+}
+.titulo {
+    text-align: center;
+    color: white;
+    padding: 60px;
+    border-bottom: 10px;
+    text-shadow: 10px 6px 6px black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+.text{
+    font-size: 40px;
+}
+.sub{
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+   
+    
+nav a{
+    padding:  5px;
+    margin: 5px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+a:hover{
+    background-color: rgb(4, 228, 4);
+    color: black;
+    
+
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+main{
+    background-color: white;
+    min-width: 300px;
+    max-width: 1500px;
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 20px;
+    box-shadow: 0px 0px 20px;
+    border-radius: 8px;
+}
+main h1{
+color: rgb(22, 97, 47);
+font-size: 40px;
+
+
+}
+
+main h2{
+    color: rgb(22, 97, 47);
+    font-size: 25px;
+    background-image: linear-gradient(to right, rgb(108, 240, 159), rgb(247, 243, 243));
+    padding: 0px;
+    text-indent: 8px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+    
+    
+}
+
+main p{
+    margin: 15px 0px 15px 0px;
+    text-align: justify;
+    line-height: 2em;
+    font-size: 18px;
+    text-indent: 25px;
+    text-decoration: none;
+}
+
+.center{
+    text-align: center;
+}
+div.video{
+    text-align: center;
+    width: 90% 90%;
+    margin-bottom: 30px;
+    padding: 35px ;
+    padding-bottom: 59%;
+    background-color: rgb(22, 97, 47);
+    margin: 0px -20px 30px -20px;
+    position: relative;
+}
+
+div.video> iframe{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+
+
+}
+
+
+.autor{
+    background-color: rgb(22, 97, 47);
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    text-align: center;
+}
+a.link {
+    color: white;
+
+}
+
+
+a.irina {
+    color: rgb(5, 177, 5);
+    text-decoration: none;
+
+}
+aside{
+    background-color: rgb(71, 231, 124);
+    border-radius: 10px;
+    color: rgb(10, 7, 7);
+    box-shadow: 0px 5px 20px;
+    
+}
+
+aside> ul {
+    columns: 2;
+    margin: 25px ;
+}
+.formato {
+    background-color:  rgb(22, 97, 47);
+    font-size:  25px;
+    color:  white;
+    border-radius: 10px 10px 0px 0px;
+    padding: 5px;
+    text-indent: 10px ;
+    
+}
+
+footer{
+    margin:  20px 10px 50px 0px;
+    font-size: 18px;
+    text-indent: 40px;
+}
+
+
+a.Dan {
+    color: rgb(5, 177, 5);
+    text-decoration: none;
+}
+a.scape{
+    color: rgb(5, 177, 5);
+    text-decoration: none;
+}
+
+a.android{
+    text-decoration: none;
+    color: rgb(5, 177, 5); 
+}
+
+
+    
+
+
+
+
+
+
+
+
